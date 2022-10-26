@@ -1,0 +1,8 @@
+#Inserire nomi cartelle da escludere da git
+
+
+
+#Inserire nomi file da escludere da git
+#*.log = escludi tutti i file con estensione .log
+#!debug.log = escludi tutti i file.log escluso questo
+debug.log
